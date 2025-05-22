@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>myRANJITHGOUD - Portfolio</title>
+  <title>RANJITHGOUD - Portfolio</title>
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
